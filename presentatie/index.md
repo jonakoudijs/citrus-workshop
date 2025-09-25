@@ -77,12 +77,10 @@ https://github.com/jonakoudijs/citrus-workshop
 <!-- Op elke master en worker node zijn een aantal processen verantwoordelijk voor een stukje van Kubernetes. -->
 
 ---
+
 # Kubernetes objecten
 
 ![bg left:50% 90%](img/kubernetes-objects.png)
-
-
-
 
 - Pod
 - Ingress
@@ -97,3 +95,15 @@ https://github.com/jonakoudijs/citrus-workshop
 <!-- Deployment: definieert hoe en hoeveel containers moeten draaien -->
 <!-- ConfigMap & Secret: beheren configuratie en gevoelige data -->
 <!-- Namespace: logische verdeling van Kubernetes objecten. Scheiding van teams en verschillende omgevingen. -->
+
+---
+
+# Open codespace
+
+![width:1130px](img/github-screenshot-template.png)
+
+---
+
+# Start Minikube - `$ minikube start`
+
+![width:1130px](img/github-screenshot-minikube.png)

@@ -2,6 +2,8 @@
     "image": "mcr.microsoft.com/devcontainers/universal:2",
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {},
-        "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {}
-    }
+        "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {},
+        "ghcr.io/dhoeric/features/k9s:1": {}
+    },
+    "postStartCommand": "minikube start && minikube addons enable ingress"
 }

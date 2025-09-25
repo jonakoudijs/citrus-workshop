@@ -1,6 +1,6 @@
 # Citrus Workshop
 
-This repository contains the presentation and required demo files for the Kubernetes Workshop (2025 @ Citrus). See the [manifests](manifests/) directory for the Kubernetes demo files and [presentation](presentation/) for the source files used for the presentation slides.
+This repository contains the presentation and required demo files for the Kubernetes Workshop (2025 @ Citrus). See the [manifests](manifests/) directory for the Kubernetes demo files and [presentatie](presentatie/) for the source files used for the presentation slides.
 
 ## Presentation
 
@@ -8,7 +8,7 @@ The presentation is made with [Marp](https://marp.app). This tool can be install
 
 After installing the `marp-cli` you can easily start the presentation (with auto-reload) with:
 ```sh
-marp -p -w -I presentation
+marp -p -w -I presentatie
 ```
 
-> **NOTE: The presentation is completely in Dutch**
+> **Keep in mind that the presentation and most other information in this repository is in Dutch**
