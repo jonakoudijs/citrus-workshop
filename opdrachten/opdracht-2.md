@@ -33,7 +33,7 @@ kubectl delete pod nginx -n opdracht-2
 
 ---
 
-Bekijk `opdracht-1.yaml` onder **manifests/** en voor deze uit:
+Bekijk `opdracht-2.yaml` onder **manifests/** en pas dit toe:
 ```sh
 kubectl apply -f manifests/opdracht-2.yaml
 ```
