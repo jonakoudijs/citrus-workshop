@@ -100,6 +100,8 @@ https://github.com/jonakoudijs/citrus-workshop
 
 # Open codespace
 
+> https://github.com/jonakoudijs/citrus-workshop
+
 ![width:1130px](img/github-screenshot-template.png)
 
 ---
